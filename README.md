@@ -1,16 +1,34 @@
-## Hi there 👋
+# Suhaib Al-Nahar
 
-<!--
-**SuhaibAN/SuhaibAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Analyst with 3+ years of experience across security operations, identity and access management, endpoint security, and network security.
 
-Here are some ideas to get you started:
+This GitHub portfolio documents practical IAM and security projects, including Okta Workforce IAM, SailPoint-style identity governance, joiner/mover/leaver workflows, access reviews, MFA, SSO, RBAC, and security documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Identity and Access Management
+- Microsoft Entra ID / Active Directory
+- SailPoint Identity Governance
+- Okta Workforce IAM
+- Access Reviews and Certifications
+- MFA, SSO, RBAC
+- Endpoint Security
+- Network Security
+- Security Operations
+
+## Featured Projects
+
+### Okta Workforce IAM Lab
+Practical IAM lab covering user lifecycle management, group rules, MFA policies, SSO concepts, RBAC, and access control documentation.
+
+### Identity Governance / SailPoint Simulation
+Identity governance simulation covering joiner/mover/leaver processes, access requests, approvals, entitlement mapping, access reviews, certifications, and revocation workflows.
+
+## Tools & Technologies
+
+Microsoft Entra ID • Active Directory • SailPoint IdentityIQ • Okta • Microsoft 365 • Intune • VMware AirWatch • CyberArk • ServiceNow • PowerShell • Python • Nmap • OWASP ZAP
+
+## Contact
+
+LinkedIn: linkedin.com/in/suhaib-al-nahar-b37a66206  
+Email: suhaibalnahar3@gmail.com
