@@ -18,12 +18,9 @@ This GitHub portfolio documents practical IAM and security projects, including O
 
 ## Featured Projects
 
-### Okta Workforce IAM Lab
 
 ### [Okta Workforce IAM Lab](https://github.com/SuhaibAN/okta-workforce-iam-lab)
 Practical IAM lab covering user lifecycle management, group rules, MFA policies, SSO concepts, RBAC, and access control documentation.
-
-### Identity Governance / SailPoint Simulation
 
 ### [Identity Governance / SailPoint Simulation](https://github.com/SuhaibAN/identity-governance-sailpoint-simulation)
 Identity governance simulation covering joiner/mover/leaver processes, access requests, approvals, entitlement mapping, access reviews, certifications, and revocation workflows.
