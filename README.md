@@ -7,7 +7,8 @@ This GitHub portfolio documents practical IAM and security projects, including O
 ## Focus Areas
 
 - Identity and Access Management
-- Microsoft Entra ID • Active Directory
+- Microsoft Entra ID
+- Active Directory
 - SailPoint Identity Governance
 - Okta Workforce IAM
 - Access Reviews and Certifications
